@@ -236,7 +236,7 @@ _MTAs / SMTP servers_
 
 _MDAs - IMAP/POP3 software_
 
-* [Cyrus IMAP/POP3](http://cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in.
+* [Cyrus IMAP/POP3](http://cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in. ([Source Code](https://github.com/cyrusimap/cyrus-imapd)) `C`
 * [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind. ([Source Code](https://github.com/dovecot/core)) `MIT/LGPLv2` `C`
 * [Piler](http://www.mailpiler.org/wiki/start) - feature rich open source email archiving solution. ([Source Code](https://bitbucket.org/jsuto/piler)) `GPLv3` `C`
 
@@ -302,12 +302,12 @@ _Mailing lists servers and mass mailing software - one message to many recipient
   * [Flarum](http://flarum.org) - Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. ([Source Code](https://github.com/flarum/flarum)) `MIT` `PHP`
   * [flaskbb](https://flaskbb.org/) - FlaskBB is forum software written in Python using the microframework Flask. You can easily create new topics, posts and send other users private messages. It also includes basic administration and moderation tools. ([Source Code](https://github.com/sh4nks/flaskbb)) `BSD` `Python`
   * [FluxBB](http://fluxbb.org/) - Fast, light, user-friendly forum software for your website. ([Source Code](https://github.com/fluxbb/fluxbb)) `GPLv2` `PHP`
-  * [Friendica](http://friendica.com/) - Social Communication Server. ([Source Code](https://github.com/friendica/friendica)) `AGPLv3`
+  * [Friendica](http://friendica.com/) - Social Communication Server. ([Source Code](https://github.com/friendica/friendica)) `AGPLv3` `PHP`
   * [GNU social](https://gnu.io/social/) - Social communication software for both public and private communications. ([Source Code](https://git.gnu.io/gnu/gnu-social)) `AGPLv3` `PHP`
   * [Hubzilla](https://github.com/redmatrix/hubzilla) - Independent general-purpose websites that not only connect with their associated members and viewers, but also connect together. `MIT` `PHP`
   * [HumHub](https://www.humhub.org/) - A flexible kit for private social networks. ([Source Code](https://github.com/humhub/humhub)) `AGPLv3` `PHP`
   * [Isso](http://posativ.org/isso/) - A lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code](https://github.com/posativ/isso)) `MIT` `Python`
-  * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone. ([Source Code](https://github.com/jappix/jappix)) `AGPLv3`
+  * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone. ([Source Code](https://github.com/jappix/jappix)) `AGPLv3` `JavaScript`
   * [Loomio](https://www.loomio.org/) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them.  ([Source Code](https://github.com/loomio/loomio)) `AGPLv3` `Ruby`
   * [Movim](https://movim.eu/) - A brand new social network, full of awesome features in a modern and smart interface. ([Source Code](https://github.com/movim/movim)) `AGPLv3` `PHP`
   * [MyBB](http://www.mybb.com/) - Free, extensible forum software package. ([Source Code](https://github.com/mybb/mybb)) `LGPLv3` `PHP`
@@ -334,7 +334,7 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
   * [MongooseIM](https://www.erlang-solutions.com/products/mongooseim.html) - Fork of ejabberd. ([Source Code](https://github.com/esl/MongooseIM)) `MIT` `Erlang`
   * [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration (RTC) server. ([Source Code](https://github.com/igniterealtime/Openfire)) `Apache` `Java`
   * [Prosody IM](http://prosody.im/) - Feature-rich and easy to configure XMPP server. ([Source Code](http://hg.prosody.im/)) `MIT` `Lua`
-  * [Tigase](http://www.tigase.net/content/tigase-xmpp-server) - XMPP server implementation in Java. `Java`
+  * [Tigase](http://www.tigase.net/content/tigase-xmpp-server) - XMPP server implementation in Java. ([Source Code](https://projects.tigase.org/projects/tigase-server/repository)) `AGPL3` `Java`
 
 #### XMPP Web Clients
 
