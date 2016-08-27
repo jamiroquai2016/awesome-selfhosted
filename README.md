@@ -7,7 +7,7 @@ Selfhosting is the process of locally hosting and managing applications instead 
 This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally. Non-Free software is listed on the [Non-Free](non-free.md) page.
 
 See [Contributing](#contributing).
-
+[pokefortress](http://www.pokefortress.com/)
 =================
 
   - [Analytics](#analytics)
@@ -250,7 +250,7 @@ _Mailing lists servers and mass mailing software - one message to many recipient
   * [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social & more). ([Source Code](https://github.com/mautic/mautic)) `GPLv3` `PHP`
   * [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
   * [Sympa](https://www.sympa.org/) - A mailing list manager. `GPLv2` `Perl`
-
+[pokefortress](http://www.pokefortress.com/)
 #### Webmail clients
 
   * [Cypht](http://cypht.org/index.html) - A feed reader for your email accounts. ([Source Code](https://github.com/jasonmunro/hm3)) `GPLv2` `PHP`
@@ -435,7 +435,7 @@ See https://github.com/n1trux/awesome-sysadmin#dns
   * [OpenID/OpenID Connect](http://openid.net/developers/libraries/) - A Simple Identity layer on top of OAuth 2.0.
   * [OSIAM](https://www.osiam.org) - Open Source Identity and Access Management implementing OAuth 2.0 and SCIMv2. ([Source Code](https://github.com/osiam/osiam)) `MIT` `Java`
 
-
+[pokefortress](http://www.pokefortress.com/)
 ## Feed Readers
 
   * [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader. ([Source Code](https://github.com/Athou/commafeed)) `Java`
@@ -704,7 +704,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
  * [sysPass](http://www.syspass.org/) - Multiuser password management system. ([Source Code](https://github.com/nuxsmin/sysPass), [Demo](http://demo.syspass.org/)) `GPLv3` `PHP`
  * [Teampass](http://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way on any server Apache, MySQL and PHP. ([Source Code](https://github.com/nilsteampassnet/TeamPass/)) `GPLv3` `PHP`
 
-
+[pokefortress](http://www.pokefortress.com/)
 ## Pastebins
 
   * [0bin](https://github.com/sametmax/0bin) - Client side encrypted pastebin. `WTFPL` `Python`
@@ -843,7 +843,7 @@ See **[Ticketing](#ticketing)**
   * [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code](https://github.com/rstudio/rstudio/)) `AGPLv3` `Java/C++`
   * [Wide](https://github.com/b3log/wide) - A Web-based IDE for Teams using Go programming language/Golang. ([Demo](http://wide.b3log.org/signup)) `Apache` `Go`
 
-
+[pokefortress](http://www.pokefortress.com/)
 ### Continuous Integration
 
   * [Concourse](https://concourse.ci/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)) `Apache` `Go`
@@ -952,7 +952,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [WiKiss](http://wikiss.tuxfamily.org/) - A Wiki, simple to use and install. ([Source Code](https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn&path=%2F&sc=0)) `GPLv2` `PHP`
   * [Wikitten](http://wikitten.vizuina.com/) - Wikitten is a small, fast, PHP wiki, and the perfect place to store your notes, code snippets, ideas, and so on. ([Source Code](https://github.com/victorstanciu/Wikitten)) `MIT` `PHP`
 
-
+[pokefortress](http://www.pokefortress.com/)
 ## Self-hosting Solutions
 
   * [arkOS](https://arkos.io/) - Install arkOS to a dedicated device and host your own websites, email, files and more. ([Source Code](https://git.coderouge.co/groups/arkOS) [[1]](https://github.com/cznweb)) `MIT/GPL` `Nodejs/Other`
@@ -1010,7 +1010,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
  * [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/) - Lists of software aimed at privacy and decentralization (in some form).
  * Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
  * Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [Auto-Hébergement (FR)](http://www.auto-hebergement.fr/)
-
+[pokefortress](http://www.pokefortress.com/)
 -------------------------------------------------------
 
 ## Contributing
@@ -1022,5 +1022,5 @@ Contributing guidelines can be found [here](.github/CONTRIBUTING.md).
 The list of authors can be found [here](AUTHORS).
 
 ## License
-
+[pokefortress](http://www.pokefortress.com/)
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
